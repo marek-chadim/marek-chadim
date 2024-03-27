@@ -1,4 +1,4 @@
-### Hi there👋, I'm probably 
+### Hi there👋, I'm currently 
 
 ## Mastering Metrics 🏗️
 - 🎲 by Building on Bayesics to Suplement Statistics in R;
