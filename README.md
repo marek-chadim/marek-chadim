@@ -1,8 +1,8 @@
 ### Hi there👋, I'm probably 
 
 ## Mastering Metrics 🏗️
-- 🎲 Building on Bayesics to Suplement Statistics in R;
-- 💻 Not Neglecting Numerics in Julia;
+- 🎲 by Building on Bayesics to Suplement Statistics in R;
+- 💻 while Not Neglecting Numerics in Julia;
 - 🤖 and Programming in Python. 
 
 ## Educational Journey 🏫
