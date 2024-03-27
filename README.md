@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi there👋
 
-- 🔭 MSc in Economics at the Stockholm School of Economics
-- 🌱 Metrics, Numerics, and Bayesics
+- MSc in Economics @ SSE
+- PhD Econometrics @ SU
+- Metrics, Numerics, Bayesics
+- Stata, R, Python, Julia
 
 
