@@ -11,5 +11,5 @@
 - 🐔 MSc in Economics @ Stockholm School of Economics 🇸🇪 
 - 🐦 PhD Econometrics @ IIES Stockholm University 🇸🇪 
 
-### 📫 ➡️ chadimarek@gmail.com
+### 📫 chadimarek@gmail.com
 
