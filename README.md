@@ -10,8 +10,8 @@
 - Stata, R, Python, Julia
   
 ### Journey 🏫
-- 🐣 Math & Stats @ IES Charles University 🇨🇿
-- 🐥 Data Science @ SBE Maastricht University 🇳🇱
+- 🐣 Mathematics & Statistics @ IES Charles University 🇨🇿
+- 🐥 QuantEcon & Data Science @ SBE Maastricht University 🇳🇱
 - 🐔 Economics @ Stockholm School of Economics 🇸🇪 
 - 🐦 Econometrics @ IIES Stockholm University 🇸🇪 
 
