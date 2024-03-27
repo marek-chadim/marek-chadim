@@ -1,11 +1,15 @@
-### Hi there👋, I'm currently 
+### Hi there👋 
 
-## Mastering Metrics 🏗️ 📈
-- 🎲 by Building on Bayesics to Suplement Statistics in R;
-- 💻 while Not Neglecting Numerics in Julia;
-- 🤖 and Programming in Python. 
+# Interests 📚
+- 📈 Mastering Metrics,
+- 📊 with Solid Statistics;
+- 🎲 Building on Bayesics;
+- 💻 Never Neglecting Numerics.
 
-## Educational Journey 🏫📚
+# Toolkit 🛠️
+- Stata, R, Python, Julia
+  
+## Journey 🏫
 - 🐣 BSc in Economics @ IES Charles University 🇨🇿
 - 🐥 Exchange Data Science @ SBE Maastricht University 🇳🇱
 - 🐔 MSc in Economics @ Stockholm School of Economics 🇸🇪 
