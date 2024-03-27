@@ -1,19 +1,18 @@
-### Hi there👋 
+# Hi there👋 
 
-# Interests 📚
+### Interests 📚
 - 📈 Mastering Metrics,
 - 📊 with Solid Statistics;
 - 🎲 Building on Bayesics;
 - 💻 Never Neglecting Numerics.
 
-# Toolkit 🛠️
+### Toolkit 🛠️
 - Stata, R, Python, Julia
   
-## Journey 🏫
+### Journey 🏫
 - 🐣 BSc in Economics @ IES Charles University 🇨🇿
 - 🐥 Exchange Data Science @ SBE Maastricht University 🇳🇱
 - 🐔 MSc in Economics @ Stockholm School of Economics 🇸🇪 
 - 🐦 PhD Econometrics @ IIES Stockholm University 🇸🇪 
 
-### 📫 chadimarek@gmail.com
 
