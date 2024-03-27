@@ -1,9 +1,10 @@
 ### Hi there👋, I'm probably 
 
 ## 🏗️ Mastering Metrics
-- 📈 Studying Statistics & 🎲 Building on Bayesics (R),
-- ➕ ➖ Not Negleting Numerics (Julia),
-- 💻 Programming (Python). 
+- 🎲 Building on Bayesics, and
+- 📈 Strengthening Statistics in R;
+- ➕ ➖ Not Negleting Numerics in Julia;
+- 💻 Programming in Python. 
 
 ## 🏫
 - 🐣 BSc in Economics @ IES Charles University 🇨🇿
