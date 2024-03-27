@@ -1,8 +1,10 @@
 # Hi there👋 
 
 ### Interests 📚
-- 📈 Mastering Metrics by 📊 Strengthening Statistics,
-- 🎲 Built on Bayesics, while 💻 Not Neglecting Numerics.
+- 📈 Mastering Metrics
+- 📊 Strengthening Statistics
+- 🎲 Building on Bayesics
+- 💻 Not Neglecting Numerics
 
 ### Toolkit 🛠️
 - Stata, R, Python, Julia
