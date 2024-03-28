@@ -1,4 +1,5 @@
 # Hi there👋 
+My name is Marek Chadim. I'm an MSc Student at The Stockholm School of Economics. I got my Bachelor in Economics at Charles University in Prague. Learning is my favorite thing.
 
 ### Interests 📚
 - 📈 Mastering Metrics
