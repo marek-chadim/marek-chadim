@@ -1,5 +1,5 @@
 # Hi there👋 
-My name is Marek Chadim and learning is my favorite thing.
+My name is Marek, I like sports and learning is my favorite thing.
 
 ### Interests 📚
 - 📈 Mastering Metrics
