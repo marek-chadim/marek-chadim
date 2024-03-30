@@ -17,4 +17,4 @@ My name is Marek, I'm an MSc in Economics student. Learning is my favorite thing
 - 🐦 Econometrics @ IIES Stockholm University 🇸🇪 
 
 ### Open Learning 🗺️
-<img src="StanfordCode23.png" width="100" height="100">
+<img src="StanfordCode23.png" width="300" height="300">
