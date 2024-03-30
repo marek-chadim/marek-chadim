@@ -10,14 +10,14 @@ My name is Marek and learning is my favorite thing.
 ### Toolkit 🛠️
 - Stata, R, Python, Julia
   
-### Journey 🏫
-- 🐣 Mathematics & Statistics @ IES Charles University 🇨🇿
-- 🐥 QuantEcon & Data Science @ SBE Maastricht University 🇳🇱
-- 🐔 Economics @ Stockholm School of Economics 🇸🇪 
-- 🐦 Econometrics @ IIES Stockholm University 🇸🇪 
+### Education 🏫
+- Onsite
+  - 🐣 Mathematics & Statistics @ IES Charles University 🇨🇿
+  - 🐥 QuantEcon & Data Science @ SBE Maastricht University 🇳🇱
+  - 🐔 Economics @ Stockholm School of Economics 🇸🇪 
+  - 🐦 Econometrics @ IIES Stockholm University 🇸🇪 
 
-### Gotta Catch 'Em All 🪙
-
+- Online
 <p float="left">
   <img src="StanfordCode23.png" width="33%" />
   <img src="certificate-elements-of-ai.png" width="33%" />
