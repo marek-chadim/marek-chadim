@@ -13,9 +13,9 @@ My name is Marek, I'm an MSc in Economics student and learning is my favorite th
 ### Education 🏫
 - Onsite
   - 🐣 Mathematics & Statistics @ IES Charles University 🇨🇿
-  - 🐥 Data Science @ SBE Maastricht University 🇳🇱
-  - 🐔 Quantitative Economics @ Stockholm School of Economics 🇸🇪 
-  - 🐦 Econometrics & Bayes @ IIES Stockholm University 🇸🇪 
+  - 🐥 QuantEcon & Data Science @ SBE Maastricht University 🇳🇱
+  - 🐔 Economics & Numerics @ Stockholm School of Economics 🇸🇪 
+  - 🐦 Econometrics & Bayesics @ IIES Stockholm University 🇸🇪 
 
 - Online
 <p float="left">
