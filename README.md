@@ -18,3 +18,4 @@ My name is Marek, I'm an MSc in Economics student. Learning is my favorite thing
 
 ### Open Learning 🗺️
 <img src="StanfordCode23.png" width="500">
+<img src="certificate-elements-of-ai.png" width="500">
