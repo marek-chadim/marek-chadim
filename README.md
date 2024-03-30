@@ -4,8 +4,8 @@ My name is Marek, I'm an MSc in Economics student and learning is my favorite th
 ### Interests 📚
 - 📈 Mastering Metrics
 - 📊 Strengthening Statistics
-- 🎲 Building on Bayesics
-- 💻 Not Neglecting Numerics
+- 🎲 Building up Bayesics
+- ✖️ Not Neglecting Numerics
 
 ### Toolkit 🛠️
 - Stata, R, Python, Julia
