@@ -17,26 +17,24 @@ My name is Marek, I'm an MSc in Economics student. Learning is my favorite thing
 - 🐦 Econometrics @ IIES Stockholm University 🇸🇪 
 
 ### Open Learning 🗺️
-
+<img src="StanfordCode23.png" width="300" />
 <p float="left">
   <img src="DataScience.png" width="33%" />
   <img src="Statistics.png" width="33%" />
   <img src="Tidyverse.png" width="33%" />
   <img src="MachineLearning.png" width="33%" />
   <img src="Mathematics.png" width="33%" />
+  <img src="certificate-of-completion-for-introduction-to-julia.png" width="33%" />
   <img src="PythonFundamentals.png" width="33%" />
   <img src="DataLiteracy.png" width="33%" />
   <img src="DataAnalystR.png" width="33%" />
-  <img src="certificate-of-completion-for-introduction-to-julia.png" width="33%" />
-  <img src="PythonKaggle.png" width="33%" />
+  <img src="PythonKaggle.png" width="33%" /> 
+  <img src="certificate-elements-of-ai.png" width="33%" />
 </p>
 
-</p>
 
-  <img src="StanfordCode23.png" width="300" />
-  <img src="certificate-elements-of-ai.png" width="500" />
+
  
-</p>
 
  
 
