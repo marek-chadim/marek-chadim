@@ -30,7 +30,7 @@ My name is Marek, I'm an MSc in Economics student. Learning is my favorite thing
 <p float="left">
   
 <p float="left">
-  <img src="PythonFundamentals.png" width="500">
+  <img src="PythonFundamentals.png" width="33%">
   <img src="DataLiteracy.png" width="33%" />
   <img src="DataAnalystR.png" width="33%" />
 </p>
