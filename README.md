@@ -16,14 +16,14 @@ My name is Marek, I'm an MSc in Economics student and learning is my favorite th
   - 🐔 Economics @ Stockholm School of Economics 🇸🇪 
   - 🐦 Econometrics @ IIES Stockholm University 🇸🇪 
 
-### Education 🏫
+### Gotta Catch 'Em All 🪙
   <p float="left">
   
   <img src="StanfordCode23.png" width="40%">
   <img src="certificate-elements-of-ai.png" width="50%"/>
   </p>
 
-### Gotta Catch 'Em All 🪙
+
 <p float="left">
   
   <img src="DataScience.png" width="33%" />
