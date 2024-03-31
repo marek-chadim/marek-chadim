@@ -28,6 +28,8 @@ My name is Marek, I'm an MSc in Economics student and learning is my favorite th
   <img src="MachineLearning.png" width="33%" />
   <img src="Mathematics.png" width="33%" />
   <img src="certificate-of-completion-for-introduction-to-julia.png" width="33%" />
+  <img src="1-certificate-of-completion-for-julia-for-data-science.png" width="33%" />
+  <img src="1-introduction-to-dataframes-jl-1.png" width="33%" />
   <img src="DataAnalystR.png" width="33%" />
   <img src="DataLiteracy.png" width="33%" />
   <img src="PythonFundamentals.png" width="33%" />
