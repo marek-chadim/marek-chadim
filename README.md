@@ -18,6 +18,8 @@ My name is Marek, I'm an MSc in Economics student and learning is my favorite th
   - 🐦 Econometrics @ IIES Stockholm University 🇸🇪 
 
 - Online
+  <img src="StanfordCode23.png">
+  <img src="certificate-elements-of-ai.png"/>
 
 <p float="left">
   
@@ -32,6 +34,7 @@ My name is Marek, I'm an MSc in Economics student and learning is my favorite th
   <img src="DataAnalystR.png" width="33%" />
   <img src="DataLiteracy.png" width="33%" />
   <img src="PythonFundamentals.png" width="33%" />
+  <img src="PythonKaggle.png" width="33%" />
 </p>
   
 <p float="left">
@@ -40,12 +43,11 @@ My name is Marek, I'm an MSc in Economics student and learning is my favorite th
   <img src="1-introduction-to-dataframes-jl-1.png" width="33%" />
   </p>
 
-<p float="left">
-  <img src="certificate-elements-of-ai.png" width="45%" />
-  <img src="PythonKaggle.png" width="45%" />
-</p>
 
-  <img src="StanfordCode23.png">
+
+
+
+
 
 
 
