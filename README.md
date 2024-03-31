@@ -18,8 +18,12 @@ My name is Marek, I'm an MSc in Economics student and learning is my favorite th
   - 🐦 Econometrics @ IIES Stockholm University 🇸🇪 
 
 - Online
-  <img src="StanfordCode23.png">
-  <img src="certificate-elements-of-ai.png"/>
+  <p float="left">
+  
+  <img src="StanfordCode23.png" width="60%">
+  <img src="certificate-elements-of-ai.png" width="40%"/>
+  </p>
+
 
 <p float="left">
   
