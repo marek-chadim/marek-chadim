@@ -8,23 +8,22 @@ My name is Marek, I'm an MSc in Economics student and learning is my favorite th
 - ✖️ Not Neglecting Numerics
 
 ### Toolkit 🛠️
-- Stata, R, Python, Julia
+- 🥇Stata, 🥈R, 🥉Python, 🆕Julia
   
 ### Education 🏫
-- Onsite
   - 🐣 Math & Stats @ IES Charles University 🇨🇿
   - 🐥 Data Science @ SBE Maastricht University 🇳🇱
   - 🐔 Economics @ Stockholm School of Economics 🇸🇪 
   - 🐦 Econometrics @ IIES Stockholm University 🇸🇪 
 
-- Online
+### Education 🏫
   <p float="left">
   
   <img src="StanfordCode23.png" width="40%">
   <img src="certificate-elements-of-ai.png" width="50%"/>
   </p>
 
-
+### Gotta Catch 'Em All 🪙
 <p float="left">
   
   <img src="DataScience.png" width="33%" />
