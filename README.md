@@ -32,9 +32,10 @@ My name is Marek, I'm an MSc in Economics student and learning is my favorite th
   <img src="PythonFundamentals.png" width="33%" />
 </p>
 
-  <img src="StanfordCode23.png" width="33%">
-  <img src="certificate-elements-of-ai.png" width="33%">
-  <img src="PythonKaggle.png" width="33%" > 
+
+  <img src="StanfordCode23.png">
+  <img src="certificate-elements-of-ai.png">
+  <img src="PythonKaggle.png"> 
 
 
 
