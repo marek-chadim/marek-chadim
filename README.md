@@ -8,7 +8,7 @@ My name is Marek, I'm an MSc in Economics student and learning is my favorite th
 - ✖️ Not Neglecting Numerics
 
 ### Toolkit 🛠️
-- Stata🥇, R 🥈, Python 🥉, Julia 🆕
+- Stata, R , Python, Julia 🆕
   
 ### Education 🏫
   - 🐣 Math & Stats @ IES Charles University 🇨🇿
