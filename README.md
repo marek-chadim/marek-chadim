@@ -41,11 +41,11 @@ My name is Marek, I'm an MSc in Economics student and learning is my favorite th
   </p>
 
 <p float="left">
-  <img src="certificate-elements-of-ai.png" width="40%" />
-  <img src="PythonKaggle.png" width="40%" />
+  <img src="certificate-elements-of-ai.png" width="45%" />
+  <img src="PythonKaggle.png" width="45%" />
 </p>
 
-
+  <img src="StanfordCode23.png">
 
 
 
