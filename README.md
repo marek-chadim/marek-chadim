@@ -20,7 +20,7 @@ My name is Marek, I'm an MSc in Economics student and learning is my favorite th
 - Online
   <p float="left">
   
-  <img src="StanfordCode23.png" width="50%">
+  <img src="StanfordCode23.png" width="40%">
   <img src="certificate-elements-of-ai.png" width="50%"/>
   </p>
 
