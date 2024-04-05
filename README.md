@@ -24,8 +24,8 @@ My name is Marek, I'm an MSc in Economics student and learning is my favorite th
 
 <p float="left">
   
-  <img src="DataScience.png" width="40%" />
-  <img src="MachineLearning.png" width="40%" />
+  <img src="DataScience.png" width="50%" />
+  <img src="MachineLearning.png" width="50%" />
   <img src="Statistics.png" width="40%" />
   <img src="Mathematics.png" width="40%" />
   <img src="Tidyverse.png" width="33%" />
