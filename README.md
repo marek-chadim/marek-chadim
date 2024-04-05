@@ -15,18 +15,17 @@ My name is Marek, I'm an MSc in Economics student and learning is my favorite th
   - 🐥 Data Science @ SBE Maastricht University 🇳🇱
   - 🐔 Economics @ Stockholm School of Economics 🇸🇪 
   - 🐦 Econometrics @ IIES Stockholm University 🇸🇪 
-
-
 <p float="left">
-
-  <img src="StanfordCode23.png" width="33%"> 
-  <img src="certificate-elements-of-ai.png" width="33%"/>
-  <img src="PythonKaggle.png"  width="33%"/>
+<img src="StanfordCode23.png" width="33%"> 
+<img src="certificate-elements-of-ai.png" width="33%"/>
+  </p>
+<p float="left">
   <img src="DataScience.png" width="33%" />
   <img src="Statistics.png" width="33%" />
   <img src="Tidyverse.png" width="33%" />
   <img src="MachineLearning.png" width="33%" />
   <img src="Mathematics.png" width="33%" />
+  <img src="PythonKaggle.png"  width="33%"/>
   <img src="DataAnalystR.png" width="33%" />
   <img src="Rprogr.png" width="33%" />
   <img src="ImportClean.png" width="33%" />
