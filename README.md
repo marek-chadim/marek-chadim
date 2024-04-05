@@ -8,7 +8,7 @@ My name is Marek. I’m currently pursuing a Master of Science, and learning is 
 - ✖️ Not Neglecting Numerics
 
 ### Toolkit 🛠️
-- Stata, R , Python, Julia 
+- Julia, Python, R + Stata
   
 ### Education 🏫
   - 🐣 Math & Stats @ IES Charles University 🇨🇿
