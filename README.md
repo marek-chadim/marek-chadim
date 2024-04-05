@@ -1,5 +1,5 @@
 # Hi there👋 
-My name is Marek, I'm an MSc in Economics student and learning is my favorite thing.
+My name is Marek. I’m currently pursuing a Master of Science in Economics. Learning is my favorite thing
 
 ### Interests 📚
 - 📈 Mastering Metrics
