@@ -11,7 +11,7 @@ My name is Marek, I'm an MSc in Economics student and learning is my favorite th
 - Stata, R , Python, Julia 
   
 ### Education 🏫
-  - 🐣 Math & Stats @ IES Charles University 🇨🇿
+  - 🐣 Economics @ IES Charles University 🇨🇿
   - 🐥 Data Science @ SBE Maastricht University 🇳🇱
   - 🐔 Economics @ Stockholm School of Economics 🇸🇪 
   - 🐦 Econometrics @ IIES Stockholm University 🇸🇪 
