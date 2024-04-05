@@ -19,7 +19,8 @@ My name is Marek, I'm an MSc in Economics student and learning is my favorite th
 
 <p float="left">
 
-
+  <img src="StanfordCode23.png" width="33%"> 
+   <img src="PythonKaggle.png"  width="33%"/>
   <img src="DataScience.png" width="33%" />
   <img src="Statistics.png" width="33%" />
   <img src="Tidyverse.png" width="33%" />
@@ -37,8 +38,7 @@ My name is Marek, I'm an MSc in Economics student and learning is my favorite th
   <img src="1-introduction-to-dataframes-jl-1.png" width="33%" />
 </p>
   
-  <img src="StanfordCode23.png"> 
- <img src="PythonKaggle.png" width= />
+
 
 
 
