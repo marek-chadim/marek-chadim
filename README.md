@@ -21,14 +21,16 @@ My name is Marek, I'm an MSc in Economics student and learning is my favorite th
  
   </p>
 
-
+<img src="StanfordCode23.png" width="50%">
 <p float="left">
   
   <img src="DataScience.png" width="45%" />
-  <img src="MachineLearning.png" width="45%" />
   <img src="Statistics.png" width="45%" />
-  <img src="Mathematics.png" width="45%" />
   <img src="Tidyverse.png" width="45%" />
+  <img src="MachineLearning.png" width="45%" />
+  <img src="Mathematics.png" width="45%" />
+  <img src="certificate-elements-of-ai.png" width="45%"/>
+
   <img src="DataAnalystR.png" width="45%" />
   <img src="PythonFundamentals.png" width="45%" />
   
@@ -41,8 +43,8 @@ My name is Marek, I'm an MSc in Economics student and learning is my favorite th
   <img src="certificate-of-completion-for-julia-for-data-science-1.png" width="33%" />
   <img src="1-introduction-to-dataframes-jl-1.png" width="33%" />
   
-  <img src="StanfordCode23.png" width="40%">
-  <img src="certificate-elements-of-ai.png" width="50%"/>
+
+
 </p>
   
 
