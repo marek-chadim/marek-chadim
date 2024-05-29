@@ -19,7 +19,7 @@
 </p>
   
 
-<img src="StanfordCode23.png"> 
+<img src="StanfordCode23.png" width="50%"> 
 <img src="PythonKaggle.png" />
 
 
