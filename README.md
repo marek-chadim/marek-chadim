@@ -1,7 +1,7 @@
 # Hi there👋 
 
 <p float="left">
-  <img src="StanfordCode23.png" />
+
   <img src="DataScience.png" width="33%" />
   <img src="Statistics.png" width="33%" />
   <img src="Tidyverse.png" width="33%" />
@@ -17,6 +17,7 @@
   <img src="certificate-of-completion-for-introduction-to-julia.png" width="33%" />
   <img src="certificate-of-completion-for-julia-for-data-science-1.png" width="33%" />
   <img src="1-introduction-to-dataframes-jl-1.png" width="33%" />
+  <img src="StanfordCode23.png" />
 </p>
   
 
