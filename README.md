@@ -17,7 +17,7 @@
   <img src="certificate-of-completion-for-introduction-to-julia.png" width="33%" />
   <img src="certificate-of-completion-for-julia-for-data-science-1.png" width="33%" />
   <img src="1-introduction-to-dataframes-jl-1.png" width="33%" />
-  <img src="StanfordCode23.png" width="50%" />
+  <img src="StanfordCode23.png" />
 </p>
   
 
