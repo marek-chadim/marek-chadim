@@ -1,7 +1,7 @@
 # Hi there👋 
 
 <p float="left">
-  <img src="StanfordCode23.png" width="50%" />
+  <img src="StanfordCode23.png" />
   <img src="DataScience.png" width="33%" />
   <img src="Statistics.png" width="33%" />
   <img src="Tidyverse.png" width="33%" />
