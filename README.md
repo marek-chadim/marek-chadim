@@ -1,20 +1,4 @@
 # Hi there👋 
-My name is Marek. I’m currently pursuing an MSc in Economics. Learning is my favorite thing!
-
-### Interests 📚
-- 📈 Mastering Metrics
-- 📊 Strengthening Statistics
-- 🎲 Building up Bayesics
-- ✖️ Not Neglecting Numerics
-
-### Toolkit 🛠️
-- Julia, Python, R + Stata
-  
-### Education 🏫
-  - 🐣 Math & Stats @ IES Charles University 🇨🇿
-  - 🐥 Data Science @ SBE Maastricht University 🇳🇱
-  - 🐔 Economics @ Stockholm School of Economics 🇸🇪 
-  - 🐦 Econometrics @ IIES Stockholm University 🇸🇪 
 
 <p float="left">
   <img src="DataScience.png" width="33%" />
