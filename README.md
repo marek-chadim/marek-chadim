@@ -1,4 +1,4 @@
-# Hi there👋 
+# Hi and thanks for visiting my profile! 👋 
 
 <p float="left">
   <img src="DataScience.png" height="10%" width="33%" />
