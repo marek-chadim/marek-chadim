@@ -1,4 +1,4 @@
-# Hi and thanks for visiting my repositories! 👋 
+# Hi and thanks for visiting my profile! 👋 
 
   
 
