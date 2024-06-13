@@ -1,7 +1,7 @@
 # Hi there👋 
 
 <p float="left">
-  <img src="DataScience.png" height="33%" width="33%" />
+  <img src="DataScience.png" height="10%" width="33%" />
   <img src="Statistics.png" height="33%" width="33%" />
   <img src="Tidyverse.png" height="33%" width="33%" />
   <img src="MachineLearning.png" height="33%" width="33%" />
