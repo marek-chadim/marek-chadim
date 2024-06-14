@@ -5,7 +5,7 @@ I’m an economics student focused on applied econometrics: related coursework a
 
 
 
-!https://github.com/marek-chadim/marek-chadim/blob/main/Bc.jpg
+![](https://github.com/marek-chadim/marek-chadim/blob/main/Bc.jpg)
 
 
  
