@@ -4,8 +4,8 @@ I’m an economics student focused on applied econometrics: related coursework a
 
 
 
+<img src="Bc.jpg" width="50%" />
 
-![](https://github.com/marek-chadim/marek-chadim/blob/main/Bc.jpg)
 
 
  
