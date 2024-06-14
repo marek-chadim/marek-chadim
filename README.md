@@ -1,6 +1,6 @@
 # Hi, and thanks for visiting my profile! 👋 
 
-I’m an economics student focused on applied econometrics: I track related coursework and list useful resources in the Econometrics repository below.
+I’m an economics student focused on applied econometrics: related coursework and resources tracked in the repository below!
 
 
 
