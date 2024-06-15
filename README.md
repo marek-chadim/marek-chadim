@@ -7,7 +7,7 @@
 </p>
 
 - Now I pursue the MSc in Economics at the Stockholm School of Economics.
-- Feel free to view my projects, and favorite resources (in the Econometrics repository), below!
+- Feel free to view my projects and favorite resources in below!
 
 
  
