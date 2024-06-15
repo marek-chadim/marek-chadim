@@ -1,11 +1,15 @@
-# Hi, and thanks for visiting my profile! 👋 
+# Hi, and thanks for visiting my profile! 👋
 
-I am an economics student passionate about applied micro-econometrics: feel free to see my projects and favorite resources below.
+I am an economics student passionate about applied econometrics.
 
-sheepskin effect
+My undergraduate degree is from Charles University in Prague, and I am now studying in Stockholm. Feel free to view my projects and favorite resources (and appreciate the Latin sheepskin effect) below.
+
+
 <p align="center">
-<img src="Bc.jpg" height= 50% width="50%" <figcaption>/>
+  <img src="Bc.jpg" alt="Charles University" height="50%" width="50%">
 </p>
+
+
 
 
  
