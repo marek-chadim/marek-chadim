@@ -6,7 +6,7 @@
 <img src="Bc.jpg" alt="Charles University" height="50%" width="50%">
 </p>
 
-- Now I continue with the MSc in Economics at the Stockholm School of Economics.
+- Now I pursue the MSc in Economics at the Stockholm School of Economics.
 - Feel free to view my projects and favorite resources below.
 
 
