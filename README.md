@@ -1,6 +1,7 @@
 # Hi, and thanks for visiting my profile! 👋
- - I am an economics student specializing in econometriccs and applied microeconomics.
- - Currently, I focus on causal machine learning in models using modern predictive tools.
+ - I am an MSc in Economics student interested in econometrics.
+ - My focus is on topic in applied microeconomics and related fields.
+
  
 
  
