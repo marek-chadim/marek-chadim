@@ -1,5 +1,7 @@
 # Hi, and thanks for visiting my profile! 👋
-I am an MSc Economics student passionate about the study of econometrics and microeconomics.
+I am pursuing graduate studies in economics in Stockholm, with a passion for econometrics and microeconomics.
+
+
 
 
 
