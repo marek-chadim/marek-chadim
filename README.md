@@ -1,6 +1,5 @@
 # Hi, and thanks for visiting my profile! 👋
-I study economics, with a passion for econometrics and data science.
-
+I study economics and focus on using data and decision science for causal inference.
 
 
 
