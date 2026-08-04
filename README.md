@@ -1,6 +1,6 @@
 # Marek Chadim
 
-Predoctoral Fellow at the [Tobin Center for Economic Policy](https://tobin.yale.edu/people/marek-chadim), Yale University, working with Seth Zimmerman and Barbara Biasi. Industrial organization and econometrics.
+Predoctoral Fellow at the [Tobin Center for Economic Policy](https://tobin.yale.edu/people/marek-chadim), Yale University, working with Seth Zimmerman and Barbara Biasi. Empirical industrial organization and econometrics — imperfectly competitive markets, the measurement of market power, and competition policy.
 
 **Website:** [marek-chadim.github.io](https://marek-chadim.github.io) · **Email:** marek.chadim@yale.edu
 
