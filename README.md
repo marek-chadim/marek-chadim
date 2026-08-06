@@ -12,10 +12,4 @@ Website: [marek-chadim.github.io](https://marek-chadim.github.io) · Email: mare
 
 **Strong Exclusion for the Production Approach** — research proposal extending Andrews, Barahona, Gentzkow, Rambachan & Shapiro (QJE 2025) to proxy-variable production-function estimation. [[proposal]](https://marek-chadim.github.io/chadim_proposal_strong_exclusion.pdf)
 
-### Repositories
-
-- [**markups-procurement**](https://github.com/marek-chadim/markups-procurement) — raw-data-to-paper pipeline for the working paper (Gentzkow–Shapiro template; Python/R/Stata)
-- [**blp**](https://github.com/marek-chadim/blp) · [**dp**](https://github.com/marek-chadim/dp) · [**dg**](https://github.com/marek-chadim/dg) — empirical IO implementations: BLP demand estimation and merger simulation with pyBLP, Rust (1987) dynamic programming, Bajari–Benkard–Levin dynamic games
-- [**thesis**](https://github.com/marek-chadim/thesis) — BSc and MSc theses behind the working paper
-
 Contributor, Production Function Replication Packages, Kenneth C. Griffin Applied Economics Incubator, University of Chicago.
