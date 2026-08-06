@@ -12,4 +12,5 @@ Website: [marek-chadim.github.io](https://marek-chadim.github.io) · Email: mare
 
 **Strong Exclusion for the Production Approach** — research proposal extending Andrews, Barahona, Gentzkow, Rambachan & Shapiro (QJE 2025) to proxy-variable production-function estimation. [[proposal]](https://marek-chadim.github.io/chadim_proposal_strong_exclusion.pdf)
 
-Contributor, Production Function Code Repository, [Kenneth C. Griffin Applied Economics Incubator.](https://github.com/uchicago-econ-io)
+Contributor, [Kenneth C. Griffin Applied Economics Incubator.](https://github.com/uchicago-econ-io)
+Production Function Code Repository 
