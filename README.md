@@ -2,7 +2,7 @@
 
 Predoctoral Fellow at the Tobin Center for Economic Policy, Yale University, working with Seth Zimmerman and Barbara Biasi.
 
-**Industrial organization** — developing empirical methods for applied microeconomics: demand, production, and the measurement of market power, now applied well beyond any single industry.
+**Industrial organization** — developing empirical methods for applied microeconomics: demand, production, and the measurement of market power.
 
 Website: [marek-chadim.github.io](https://marek-chadim.github.io) · Email: marek.chadim@yale.edu
 
