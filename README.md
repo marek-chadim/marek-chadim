@@ -16,7 +16,6 @@ Website: [marek-chadim.github.io](https://marek-chadim.github.io) · Email: mare
 
 - [**markups-procurement**](https://github.com/marek-chadim/markups-procurement) — raw-data-to-paper pipeline for the working paper (Gentzkow–Shapiro template; Python/R/Stata)
 - [**blp**](https://github.com/marek-chadim/blp) · [**dp**](https://github.com/marek-chadim/dp) · [**dg**](https://github.com/marek-chadim/dg) — empirical IO implementations: BLP demand estimation and merger simulation with pyBLP, Rust (1987) dynamic programming, Bajari–Benkard–Levin dynamic games
-- [**econometrics**](https://github.com/marek-chadim/econometrics) — graduate econometrics coursework and my own write-ups, including the [Yale sequence](https://github.com/marek-chadim/econometrics/tree/main/Yale)
 - [**thesis**](https://github.com/marek-chadim/thesis) — BSc and MSc theses behind the working paper
 
-Contributor, with Chad Syverson, to the [Production Function Replication Packages](https://github.com/uchicago-econ-io) of the Kenneth C. Griffin Applied Economics Incubator, University of Chicago.
+Contributor, Production Function Replication Packages, Kenneth C. Griffin Applied Economics Incubator, University of Chicago.
