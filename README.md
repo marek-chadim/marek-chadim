@@ -2,8 +2,6 @@
 
 Predoctoral Fellow at the Tobin Center for Economic Policy, Yale University.
 
-I want to develop empirical methods for applied microeconomics — demand, production, and the measurement of market power — and apply them where the counterfactual has to inform a public decision.
-
 Website: [marek-chadim.github.io](https://marek-chadim.github.io) · Email: marek.chadim@yale.edu
 
 ### Research
