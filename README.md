@@ -2,6 +2,8 @@
 
 Predoctoral Fellow at the Tobin Center for Economic Policy, Yale University.
 
+Economic models and measurement: I work on the theory of the empirical methods applied microeconomists use — identification, robustness, and diagnostics for demand, production, and the measurement of market power — so that the estimates carrying a counterfactual into a public decision can be trusted.
+
 Website: [marek-chadim.github.io](https://marek-chadim.github.io) · Email: marek.chadim@yale.edu
 
 ### Research
